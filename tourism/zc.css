@@ -1,0 +1,32 @@
+body{
+  background-image: url("z5.jpg");
+  background-size:cover;
+}
+h1{
+  text-align: center;
+  color:#224b6f;
+  font-family: Times New Roman;
+  font-size: 75px;
+
+}
+#p01{
+  font-size: 40px;
+  font-family: Times New Roman;
+  color: #0c263e;
+  text-align: left;
+}
+#p02{
+  font-size: 40px;
+  font-family: Times New Roman;
+  color: #0c263e;
+  text-align: left;
+}
+#p03{
+  font-size: 40px;
+  font-family: Times New Roman;
+  color:#0c263e;
+  text-align: left;
+}
+.button{
+  text-decoration: none;
+}

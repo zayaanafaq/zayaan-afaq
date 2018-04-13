@@ -1,0 +1,31 @@
+body{
+  background-image: url("zp.jpg");
+  background-size: cover;
+  padding-left: 40px;
+  padding-bottom: 60px;
+}
+h1{
+  text-align: center;
+  color:#782f29;
+  font-family: Times New Roman;
+  font-size: 75px;
+
+}
+#p01{
+  font-size: 60px;
+  font-family: Times New Roman;
+  color: #782f29;
+  text-align: left;
+  padding-left: 40px;
+}
+#p02{
+  font-size: 60px;
+  font-family: Times New Roman;
+  color: #782f29;
+  text-align: left;
+  text-align: center;
+}
+#img01{
+ image-orientation: 100px;
+
+}
